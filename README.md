@@ -36,7 +36,7 @@ This project was developed using the following technologies:
 Clone the project and access the folder
 
 ```bash
-$ git clone https://github.com/victortxc/challenge_1_to_do_list.git && cd github_web
+$ git clone https://github.com/victortxc/challenge_3_shopping_cart.git && cd github_web
 ```
 
 Follow the steps below
